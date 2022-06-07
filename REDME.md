@@ -16,6 +16,7 @@
   font-family: "ООО «Рога и копыта»", Arial, sans-serif;
   color: red;
 }
+```
 .selector {
   font-family: "Издательство «Читый лист»", Arial, sans-serif;
   color: red;
